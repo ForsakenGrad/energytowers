@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "   ",
+    "S S"
+  ],
+  "key": {
+    "S": {
+      "item": "energytowers:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "energytowers:triangular_lattice_1x1",
+    "count": 2
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SAS",
+    "   ",
+    "SAS"
+  ],
+  "key": {
+    "S": {
+      "item": "energytowers:steel_ingot"
+    },
+    "A": {
+      "item": "energytowers:aluminum_ingot"
+    }
+  },
+  "result": {
+    "item": "energytowers:rectangular_lattice_2x1",
+    "count": 2
+  }
+}

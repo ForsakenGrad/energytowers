@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SIS",
+    "SBS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "energytowers:steel_ingot"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "B": {
+      "item": "minecraft:bucket"
+    }
+  },
+  "result": {
+    "item": "energytowers:refinery",
+    "count": 1
+  }
+}

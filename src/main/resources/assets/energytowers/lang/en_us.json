@@ -1,0 +1,37 @@
+{
+  "item.energytowers.raw_bauxite": "Raw Bauxite",
+  "item.energytowers.steel_ingot": "Steel Ingot",
+  "item.energytowers.aluminum_ingot": "Aluminum Ingot",
+  "item.energytowers.ceramic_disc": "Ceramic Disc",
+  "item.energytowers.copper_wire": "Copper Wire",
+  "item.energytowers.wrench": "Electric Wrench",
+  "item.energytowers.insulated_cable": "Insulated Cable",
+  "item.energytowers.small_insulator": "Small Insulator",
+  "item.energytowers.medium_insulator": "Medium Insulator",
+  "item.energytowers.long_insulator": "Long Insulator",
+  "item.energytowers.anchor_point": "Anchor Point",
+  "item.energytowers.cable_assembly_low": "Low Voltage Cable Assembly",
+  "item.energytowers.cable_assembly_medium": "Medium Voltage Cable Assembly",
+  "item.energytowers.cable_assembly_high": "High Voltage Cable Assembly",
+
+  "block.energytowers.bauxite_ore": "Bauxite Ore",
+  "block.energytowers.deepslate_bauxite_ore": "Deepslate Bauxite Ore",
+  "block.energytowers.foundry": "Foundry",
+  "block.energytowers.refinery": "Refinery",
+  "block.energytowers.cubic_lattice_1x1": "Cubic Lattice Tower",
+  "block.energytowers.rectangular_lattice_2x1": "Rectangular Lattice Tower (2x1)",
+  "block.energytowers.rectangular_lattice_3x1": "Rectangular Lattice Tower (3x1)",
+  "block.energytowers.triangular_lattice_1x1": "Triangular Lattice Tower",
+  "block.energytowers.triangular_lattice_2x1": "Triangular Lattice Tower (2x1)",
+  "block.energytowers.triangular_lattice_3x1": "Triangular Lattice Tower (3x1)",
+  "block.energytowers.pyramidal_lattice_1x1": "Pyramidal Lattice Tower",
+  "block.energytowers.pyramidal_lattice_2x1": "Pyramidal Lattice Tower (2x1)",
+  "block.energytowers.pyramidal_lattice_3x1": "Pyramidal Lattice Tower (3x1)",
+  "block.energytowers.truncated_rectangle_lattice": "Truncated Rectangle Base",
+  "block.energytowers.anchor_point_block": "Anchor Point",
+
+  "creativetab.energytowers.energy_towers_tab": "Energy Towers",
+
+  "container.energytowers.foundry": "Foundry",
+  "container.energytowers.refinery": "Refinery"
+}

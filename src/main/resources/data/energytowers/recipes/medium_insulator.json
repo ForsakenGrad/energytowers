@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C",
+    "C",
+    "C",
+    "C",
+    "C",
+    "S"
+  ],
+  "key": {
+    "C": {
+      "item": "energytowers:ceramic_disc"
+    },
+    "S": {
+      "item": "energytowers:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "energytowers:medium_insulator",
+    "count": 1
+  }
+}

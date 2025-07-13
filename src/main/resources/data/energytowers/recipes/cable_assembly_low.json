@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I C I"
+  ],
+  "key": {
+    "I": {
+      "item": "energytowers:small_insulator"
+    },
+    "C": {
+      "item": "energytowers:insulated_cable"
+    }
+  },
+  "result": {
+    "item": "energytowers:cable_assembly_low",
+    "count": 1
+  }
+}

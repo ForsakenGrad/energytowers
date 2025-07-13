@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "KKK",
+    "KWK",
+    "KKK"
+  ],
+  "key": {
+    "K": {
+      "item": "minecraft:dried_kelp"
+    },
+    "W": {
+      "item": "energytowers:copper_wire"
+    }
+  },
+  "result": {
+    "item": "energytowers:insulated_cable",
+    "count": 1
+  }
+}

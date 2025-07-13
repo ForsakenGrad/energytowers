@@ -1,0 +1,13 @@
+{
+  "type": "energytowers:refinery",
+  "material": {
+    "item": "energytowers:raw_bauxite"
+  },
+  "fluid": {
+    "item": "minecraft:water_bucket"
+  },
+  "output": {
+    "item": "energytowers:aluminum_ingot",
+    "count": 2
+  }
+}
